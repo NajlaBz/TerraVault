@@ -21,6 +21,6 @@ Step 1: Run command "terraform init" to init configuration workspace
 
 Step 2: Run command "terraform plan" to see output which is going to be executed.
 
-Step 5: Run command "terraform apply" to actually create any resource defined with terraform.
+Step 3: Run command "terraform apply" to actually create any resource defined with terraform.
 
-Step 6: Run command "terraform destroy" to destroy created resources.
+Step 4: Run command "terraform destroy" to destroy created resources.
