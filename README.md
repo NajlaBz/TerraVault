@@ -5,7 +5,7 @@ In the present work, we define 2 workspaces:
 
 That's where the AWS backend is configured and so the role attached to the IAM credentials to be created.
 
-*Consummer workspace 
+*Consumer workspace 
 
 That's where the credentials will be generated following the role already defined in the provider workspace
 
